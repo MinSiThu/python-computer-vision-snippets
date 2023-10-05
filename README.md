@@ -10,3 +10,5 @@ This repository is for learning python and short snippets to do useful applicati
 - Face Detection in Python OpenCV
     - [Video Tutorial](https://youtu.be/i1Tcc7WHDA0)
     - [Code](/src/face_detection/face_detection.py)
+- Object Detection in Tensorflow
+    - [Notebook](/src/object%20detection/Object_Detection_with_Faster_RCNN.ipynb)
